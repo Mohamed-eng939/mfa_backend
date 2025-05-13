@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+montreal-forced-aligner
+textgrid
